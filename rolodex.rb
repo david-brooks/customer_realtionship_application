@@ -72,3 +72,4 @@ class Rolodex
 			return contact if contact.id == id
 		end
 	end	
+#end
